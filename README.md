@@ -116,7 +116,7 @@ Findings from the five SQL questions (Retail prices, KG unit, 2020–2025).
 
 **Page 1: Food Price Inflation & Volatility Monitor**
 
-![Dashboard Page 1](images/dashboard_page1.png)
+![Dashboard Page 1](images/taniya.png)
 
 **Page 2: Food Security Risk & Regional Price Gap**
 
