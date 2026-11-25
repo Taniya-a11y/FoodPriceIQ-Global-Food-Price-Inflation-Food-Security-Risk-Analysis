@@ -2,7 +2,7 @@
   <img src="images/icon.svg" alt="FoodPriceIQ icon" width="120">
 </p>
 
-<h1 align="center">FoodPriceIQ: Global Food Market & Price Intelligence</h1>
+<h1 align="center"> Global Food Price Inflation & Food Security Risk Analysis |</h1>
 
 <p align="center">
   Analysis of 2.78 million global food price records (2020–2025) using Python, SQL and Power BI to track food inflation, price volatility, regional price gaps and country-level food security risk.
@@ -161,6 +161,6 @@ FoodPriceIQ/
 **Taniya**
 Entry-level Data Analyst
 
-- LinkedIn: [add your link]
+- LinkedIn: taniyakaushal513@gmail.com]
 - GitHub: [add your link]
 - Email: [add your email]
