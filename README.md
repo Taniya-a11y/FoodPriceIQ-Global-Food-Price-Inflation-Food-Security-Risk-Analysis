@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="images/icon.svg" alt="FoodPriceIQ icon" width="120">
-</p>
+
 
 <h1 align="center"> Global Food Price Inflation & Food Security Risk Analysis |</h1>
 
