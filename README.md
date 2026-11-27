@@ -116,7 +116,13 @@ Findings from the five SQL questions (Retail prices, KG unit, 2020–2025).
 
 **Page 1: Food Price Inflation & Volatility Monitor**
 
-https://github.com/Taniya-a11y/FoodPriceIQ-Global-Food-Price-Inflation-Food-Security-Risk-Analysis/blob/main/global.png
+## Dashboard Preview
+
+### Page 1: Overview
+![Dashboard Page 1](global.png)
+
+### Page 2: Detailed Analysis
+![Dashboard Page 2](dashboard_page2.png)
 
 **Page 2: Food Security Risk & Regional Price Gap**
 
