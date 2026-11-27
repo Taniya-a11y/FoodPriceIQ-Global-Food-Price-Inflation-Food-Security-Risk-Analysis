@@ -159,6 +159,9 @@ FoodPriceIQ/
 **Taniya**
 Entry-level Data Analyst
 
-- LinkedIn: taniyakaushal513@gmail.com]
-- GitHub: [add your link]
-- Email: [add your email]
+- LinkedIn:www.linkedin.com/in/
+taniya-k-826856274
+
+- GitHub:https://github.com/Taniya-a11y
+- Email: Taniyakaushal513@gmail.com
+- 
