@@ -117,16 +117,11 @@ Findings from the five SQL questions (Retail prices, KG unit, 2020–2025).
 **Page 1: Food Price Inflation & Volatility Monitor**
 
 ## Dashboard Preview
-
-### Page 1: Overview
 ![Dashboard Page 1](global.png)
-
-### Page 2: Detailed Analysis
-![Dashboard Page 2](dashboard_page2.png)
 
 **Page 2: Food Security Risk & Regional Price Gap**
 
-![Dashboard Page 2](images/dashboard_page2.png)
+![Dashboard Page 2](regional_gap.png)
 
 ## 🗂️ Folder Structure
 
